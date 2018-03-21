@@ -17,6 +17,7 @@ function mergeArray(a, b) {
     }
 }
 
+
 const DEFAULT_CONFIG = {
     buildVersion: null,
     build: {
